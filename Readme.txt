@@ -89,7 +89,7 @@ Note: Sample inputs/outputs are provided in the input/output folder.
 Environment Requirements
 ------------------------
 - Python 3.x
-- Ovito Python Module (https://www.ovito.org/python/introduction/)
+- Ovito Python Module 
 - gfortran (to compile Fortran code)
 - Bash Shell
 
