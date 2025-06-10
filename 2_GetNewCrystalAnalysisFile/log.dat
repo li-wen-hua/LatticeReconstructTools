@@ -1,0 +1,10 @@
+ -->Total lines:       33928
+ DISLOCATIONS        start at line         160
+ -->Start line:         160
+ -->The num of atoms in dump.0:     4406007
+ Total vertex         3551
+ @@@@ newNUM calculated:         302
+ @@@@ newNUM counted:         301
+ @@@@ If the two newNUM is not the same, using the second 'counted' one!!!
+ !!! Changing This Value To 'nodes.dump' file :
+ Non-loop vertex         3537
