@@ -24,7 +24,8 @@ Note: A sample input is provided in the input folder.
 
 2. GetNewCrystalAnalysisFile: Modify disline.input File
 --------------------------------------------------------
-This module reads an initial displaced alttice configuration (using its periodic boundary only) and a disline.input file (i.e. a Crystal Analysis file), generating a new disline.input file and a dump file for visualization.
+When the target defect is a dislocation loop, it is necessary to modify the disline.input file in the input files to remove the target dislocation loop, thereby replacing the dislocation loop region with a perfect crystal lattice.
+This module reads an initial displaced alttice configuration (using its periodic boundary only) and a disline.input file (i.e. a Crystal Analysis file), remove target dislocations, and then generating a new disline.input file and a dump file for visualization.
 
 Directory structure:
 2_GetNewCrystalAnalysisFile/
